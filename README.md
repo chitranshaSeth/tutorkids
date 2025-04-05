@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # TutorKids - IB & Cambridge Assessment App
 
 An iOS application designed to assess and enhance grade 4 students' academic skills according to IB and Cambridge curriculum standards.
@@ -45,3 +46,7 @@ TutorKids/
 The app follows:
 - International Baccalaureate (IB) Primary Years Programme (PYP)
 - Cambridge Primary Curriculum 
+=======
+# tutorkids
+Personal assistant which evaluates your kids currently ability in various important subjects &amp; train them to improve on core skills needed
+>>>>>>> f2bfd2a48ec4808e83d02e1aedd18271bddb85bd
